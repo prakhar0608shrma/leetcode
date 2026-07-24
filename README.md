@@ -17,21 +17,25 @@
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prakhar0608shrma/leetcode/tree/master/0035-search-insert-position) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0975-range-sum-of-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
