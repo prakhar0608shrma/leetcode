@@ -17,6 +17,7 @@
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prakhar0608shrma/leetcode/tree/master/0035-search-insert-position) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -32,6 +34,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -39,6 +42,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
