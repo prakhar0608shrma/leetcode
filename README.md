@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakhar0608shrma/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prakhar0608shrma/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/prakhar0608shrma/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/prakhar0608shrma/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakhar0608shrma/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakhar0608shrma/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakhar0608shrma/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/prakhar0608shrma/leetcode/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakhar0608shrma/leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prakhar0608shrma/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
