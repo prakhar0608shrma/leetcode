@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/prakhar0608shrma/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/prakhar0608shrma/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/prakhar0608shrma/leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prakhar0608shrma/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakhar0608shrma/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prakhar0608shrma/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0173-binary-search-tree-iterator](https://github.com/prakhar0608shrma/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/prakhar0608shrma/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prakhar0608shrma/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
