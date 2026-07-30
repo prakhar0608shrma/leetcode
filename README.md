@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/prakhar0608shrma/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakhar0608shrma/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/prakhar0608shrma/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakhar0608shrma/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/prakhar0608shrma/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prakhar0608shrma/leetcode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
