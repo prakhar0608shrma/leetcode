@@ -70,6 +70,7 @@
 | [0011-container-with-most-water](https://github.com/prakhar0608shrma/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakhar0608shrma/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/prakhar0608shrma/leetcode/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/prakhar0608shrma/leetcode/tree/master/0143-reorder-list) |
 | [0349-intersection-of-two-arrays](https://github.com/prakhar0608shrma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakhar0608shrma/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/prakhar0608shrma/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/prakhar0608shrma/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Design
@@ -116,4 +118,12 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/prakhar0608shrma/leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/prakhar0608shrma/leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
