@@ -20,7 +20,7 @@ public:
             curr=NextNode; //move curr forward
 
         }
-        return prev;
+       return prev;
         
     }
 };
