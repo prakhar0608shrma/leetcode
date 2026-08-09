@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/prakhar0608shrma/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prakhar0608shrma/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/prakhar0608shrma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/prakhar0608shrma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
@@ -84,6 +85,7 @@
 | [0141-linked-list-cycle](https://github.com/prakhar0608shrma/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prakhar0608shrma/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prakhar0608shrma/leetcode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/prakhar0608shrma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/prakhar0608shrma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -138,6 +140,7 @@
 | [0141-linked-list-cycle](https://github.com/prakhar0608shrma/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prakhar0608shrma/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prakhar0608shrma/leetcode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/prakhar0608shrma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/prakhar0608shrma/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
