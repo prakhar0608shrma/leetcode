@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/prakhar0608shrma/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0349-intersection-of-two-arrays](https://github.com/prakhar0608shrma/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0739-daily-temperatures](https://github.com/prakhar0608shrma/leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/prakhar0608shrma/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/prakhar0608shrma/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0739-daily-temperatures](https://github.com/prakhar0608shrma/leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakhar0608shrma/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/prakhar0608shrma/leetcode/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
 | ------- |
