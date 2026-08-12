@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/prakhar0608shrma/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakhar0608shrma/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prakhar0608shrma/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/prakhar0608shrma/leetcode/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakhar0608shrma/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prakhar0608shrma/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakhar0608shrma/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/prakhar0608shrma/leetcode/tree/master/0075-sort-colors) |
@@ -105,6 +107,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/prakhar0608shrma/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/prakhar0608shrma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
