@@ -29,6 +29,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prakhar0608shrma/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -57,6 +58,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prakhar0608shrma/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -72,6 +74,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prakhar0608shrma/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakhar0608shrma/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/prakhar0608shrma/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/prakhar0608shrma/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/prakhar0608shrma/leetcode/tree/master/0155-min-stack) |
