@@ -24,6 +24,7 @@
 | [0739-daily-temperatures](https://github.com/prakhar0608shrma/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/prakhar0608shrma/leetcode/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/prakhar0608shrma/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1552-build-an-array-with-stack-operations](https://github.com/prakhar0608shrma/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0682-baseball-game](https://github.com/prakhar0608shrma/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/prakhar0608shrma/leetcode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/prakhar0608shrma/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1552-build-an-array-with-stack-operations](https://github.com/prakhar0608shrma/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Design
 |  |
 | ------- |
@@ -235,4 +237,5 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/prakhar0608shrma/leetcode/tree/master/0682-baseball-game) |
+| [1552-build-an-array-with-stack-operations](https://github.com/prakhar0608shrma/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
