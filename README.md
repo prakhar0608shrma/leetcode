@@ -24,6 +24,7 @@
 | [0739-daily-temperatures](https://github.com/prakhar0608shrma/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/prakhar0608shrma/leetcode/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/prakhar0608shrma/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/prakhar0608shrma/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1552-build-an-array-with-stack-operations](https://github.com/prakhar0608shrma/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/prakhar0608shrma/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Linked List
 |  |
 | ------- |
@@ -238,4 +240,8 @@
 | ------- |
 | [0682-baseball-game](https://github.com/prakhar0608shrma/leetcode/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/prakhar0608shrma/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/prakhar0608shrma/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
