@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/prakhar0608shrma/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/prakhar0608shrma/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/prakhar0608shrma/leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/prakhar0608shrma/leetcode/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/prakhar0608shrma/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/prakhar0608shrma/leetcode/tree/master/0792-binary-search) |
 | [0975-range-sum-of-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
