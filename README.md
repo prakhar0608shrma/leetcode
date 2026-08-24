@@ -17,6 +17,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/prakhar0608shrma/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/prakhar0608shrma/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0209-minimum-size-subarray-sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/prakhar0608shrma/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/prakhar0608shrma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/prakhar0608shrma/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -61,6 +62,7 @@
 | [0035-search-insert-position](https://github.com/prakhar0608shrma/leetcode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/prakhar0608shrma/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/prakhar0608shrma/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -221,6 +223,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/prakhar0608shrma/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/prakhar0608shrma/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
@@ -244,4 +247,8 @@
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/prakhar0608shrma/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
