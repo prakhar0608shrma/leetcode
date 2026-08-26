@@ -50,6 +50,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakhar0608shrma/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakhar0608shrma/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/prakhar0608shrma/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/prakhar0608shrma/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -64,6 +65,7 @@
 | [0098-validate-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/prakhar0608shrma/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/prakhar0608shrma/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/prakhar0608shrma/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -86,6 +88,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakhar0608shrma/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakhar0608shrma/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/prakhar0608shrma/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/prakhar0608shrma/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -184,6 +187,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prakhar0608shrma/leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/prakhar0608shrma/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Math
 |  |
 | ------- |
