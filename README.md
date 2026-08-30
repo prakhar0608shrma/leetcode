@@ -59,6 +59,7 @@
 | [0404-sum-of-left-leaves](https://github.com/prakhar0608shrma/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0975-range-sum-of-bst) |
@@ -98,6 +99,7 @@
 | [0404-sum-of-left-leaves](https://github.com/prakhar0608shrma/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0975-range-sum-of-bst) |
@@ -117,6 +119,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/prakhar0608shrma/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/prakhar0608shrma/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -271,4 +274,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/prakhar0608shrma/leetcode/tree/master/0344-reverse-string) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
