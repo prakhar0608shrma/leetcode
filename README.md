@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prakhar0608shrma/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/prakhar0608shrma/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prakhar0608shrma/leetcode/tree/master/0035-search-insert-position) |
+| [0096-unique-binary-search-trees](https://github.com/prakhar0608shrma/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/prakhar0608shrma/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar0608shrma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prakhar0608shrma/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/prakhar0608shrma/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prakhar0608shrma/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -157,6 +160,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prakhar0608shrma/leetcode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/prakhar0608shrma/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/prakhar0608shrma/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakhar0608shrma/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0943-sum-of-subarray-minimums](https://github.com/prakhar0608shrma/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -208,6 +212,7 @@
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/prakhar0608shrma/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/prakhar0608shrma/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Linked List
