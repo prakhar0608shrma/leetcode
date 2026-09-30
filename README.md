@@ -212,6 +212,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/prakhar0608shrma/leetcode/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/prakhar0608shrma/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prakhar0608shrma/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/prakhar0608shrma/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
